@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca067c7d-b425-4c57-9e5d-2c667ae7c0a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/FindLargestTwoNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestMultiplyLargestTwoNumbers.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="239canQRIrTWa275vY1lhTdBb8C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\development\algorithmic-thinking-exercises" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\development\algorithmic-thinking-exercises\src\main" />
+      <recent name="C:\Users\natha\development\algorithmic-thinking-exercises\src\test" />
+      <recent name="C:\Users\natha\development\algorithmic-thinking-exercises\src" />
+      <recent name="C:\Users\natha\development\algorithmic-thinking-exercises" />
+      <recent name="C:\Users\natha\development\algorithmic-thinking-exercises\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in TestMultiplyLargestTwoNumbers.py">
+    <configuration name="Unittests for src.test.TestMultiplyLargestTwoNumbers.TestMultiplyLargestTwoNumbers.test1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="algorithmic-thinking-exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test.TestMultiplyLargestTwoNumbers.TestMultiplyLargestTwoNumbers.test1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in TestMultiplyLargestTwoNumbers.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="algorithmic-thinking-exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/TestMultiplyLargestTwoNumbers.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in TestMultiplyLargestTwoNumbers.py" />
+        <item itemvalue="Python tests.Unittests for src.test.TestMultiplyLargestTwoNumbers.TestMultiplyLargestTwoNumbers.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca067c7d-b425-4c57-9e5d-2c667ae7c0a0" name="Default Changelist" comment="" />
+      <created>1641149808599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641149808599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1324" height="333" key="GridCell.Tab.0.bottom" timestamp="1641153484250">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1324" height="333" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1641153484250" />
+    <state width="1324" height="333" key="GridCell.Tab.0.center" timestamp="1641153484250">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1324" height="333" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1641153484250" />
+    <state width="1324" height="333" key="GridCell.Tab.0.left" timestamp="1641153484249">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1324" height="333" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1641153484249" />
+    <state width="1324" height="333" key="GridCell.Tab.0.right" timestamp="1641153484250">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1324" height="333" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1641153484250" />
+    <state width="1324" height="406" key="GridCell.Tab.1.bottom" timestamp="1641153054500">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1324" height="406" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1641153054500" />
+    <state width="1324" height="406" key="GridCell.Tab.1.center" timestamp="1641153054499">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1324" height="406" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1641153054499" />
+    <state width="1324" height="406" key="GridCell.Tab.1.left" timestamp="1641153054499">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1324" height="406" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1641153054499" />
+    <state width="1324" height="406" key="GridCell.Tab.1.right" timestamp="1641153054499">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1324" height="406" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1641153054499" />
+    <state x="189" y="247" key="SettingsEditor" timestamp="1641153234772">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="189" y="247" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1641153234772" />
+    <state x="273" y="335" key="Vcs.Push.Dialog.v2" timestamp="1641153594059">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="273" y="335" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1641153594059" />
+    <state x="760" y="264" width="672" height="678" key="search.everywhere.popup" timestamp="1641150495024">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="760" y="264" width="672" height="678" key="search.everywhere.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1641150495024" />
+  </component>
+</project>
